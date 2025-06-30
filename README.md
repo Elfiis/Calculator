@@ -19,17 +19,6 @@ PyQt6 (Qt GUI framework)
 
 Qt Designer (optional)
 
-📸 Screenshot
-(You can insert a screenshot here: e.g., images/screenshot.png)
-
-🔧 Installation & Run
-bash
-Kopyala
-Düzenle
-git clone https://github.com/yourusername/calculator-app.git
-cd calculator-app
-pip install PyQt6
-python main.py
 📚 How to Use
 Use the mouse or keyboard keys to input numbers and operations.
 
